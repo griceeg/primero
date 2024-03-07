@@ -1,0 +1,95 @@
+*{
+    padding: 0;
+    border: 0;
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    max-width: 100%;
+}
+nav{
+    background-color:#E83E8C;
+    color: #FFFFFF;
+}
+.logo-navbar{
+    height: 70px;
+    padding: 0 60px;
+}
+.navbar-links{
+    margin-inline-start: auto;
+    padding: 0 60px;
+}
+
+header{
+    padding-top: 60px;
+}
+header h1{
+    padding: 40px;
+    color: #707070;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+
+.row{
+    padding: 5% 12%;
+}
+h2 {
+    color: #373A3C !important;
+    font-weight: 700;
+    font-size: 17px;
+}
+.card-link{
+    text-decoration: none;
+    font-size: 11px;
+}
+.card-personalizadas{
+    margin: 40px 40px;
+
+}
+.card-text{
+    font-size: 16px;
+    color: #373A3C !important;
+}
+.list-group-item{
+    font-size: 11px;
+    color: #373A3C !important;
+}
+
+
+.pago{
+    background-color: #17A2B8;
+    color: #FFFFFF;
+    display: inline-block;
+    padding: 50px 130px;
+}
+.pago p{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 0;
+    padding-right: 20px;
+    padding-top: 11px;
+    width: 40%;
+}
+.pago i{
+    margin: 15px;
+}
+i{
+    font-size: 65px;
+}
+.icons-section{
+    display: inline-block;
+    width: 60%;
+}
+
+
+footer .logo-pie{
+    background-color: #E83E8C;
+}
+.logo-pie img{
+    height: 90px;
+    margin: auto;
+    display: block; 
+}
+
+.logo-pie{
+    padding: 35px 0;
+}
